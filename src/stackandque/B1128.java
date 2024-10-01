@@ -12,14 +12,14 @@ public class B1128{
     
         BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
 
-        StringTokenizer stringTokenizer = new StringTokenizer(bufferedReader.readLine(), " ");
+        StringTokenizer stringtokenizer = new StringTokenizer(bufferedReader.readLine(), " ");
         
         Queue<Integer> queue = new LinkedList<>();
 
         LinkedList<Integer> linkedList = new LinkedList<>();
         
-        int N = Integer.parseInt(stringTokenizer.nextToken());
-        int K = Integer.parseInt(stringTokenizer.nextToken());
+        int N = Integer.parseInt(stringtokenizer.nextToken());
+        int K = Integer.parseInt(stringtokenizer.nextToken());
         
         for (int i = 1; i <= N; i++) {
             queue.add(i);
