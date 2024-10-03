@@ -27,7 +27,7 @@ public class P다리를지나는트럭 {
 
          // 트럭이 다리를 건너는 로직
         while (currentTruckIndex < tokens.length) {
-            // 다리 위에 올라갈 트럭이 있는 경우
+            // 다리 길이만큼 트럭이 다 찼을 경우
             if (queue.size() == bridge_length) {
                 // 다리에서 가장 앞의 트럭을 제거하고 현재 무게에서 빼기
                 current_weight -= queue.poll();
@@ -50,7 +50,7 @@ public class P다리를지나는트럭 {
             move_time++; // 시간 증가
         }
 
-        // 다리에서 마지막 트럭이 지나가는 시간을 더해줍니다.
+        // 다리에서 마지막 트럭이 지나가는 시간을 더한다.
         move_time += bridge_length;
 
         System.out.println(move_time); 
