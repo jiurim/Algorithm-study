@@ -12,7 +12,7 @@ public class B9012 {
 
         int T = Integer.parseInt(bufferedReader.readLine());
 
-        StringBuilder result = new StringBuilder(); // 결과를 저장할 StringBuilder
+        StringBuilder result = new StringBuilder(); // 결과를 저장
 
         for (int i = 0; i < T; i++) {
             String vpc = bufferedReader.readLine();
@@ -35,7 +35,6 @@ public class B9012 {
                 }
             }
 
-            // 스택에 여전히 '('가 남아 있으면 불균형
             if (!stack.isEmpty()) {
                 isTrue = false;
             }
@@ -47,8 +46,6 @@ public class B9012 {
                 result.append("NO\n");
             }
         }
-
-        // 모든 결과를 한 번에 출력
         System.out.print(result.toString());
     }
 }
