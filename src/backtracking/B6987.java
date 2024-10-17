@@ -40,7 +40,7 @@ public class B6987 {
             }
 
             if (valid) {
-                backtracking(0,1); // 백트래킹 시작
+                backtracking(0, 1); // 백트래킹 시작
             }
 
             // 결과 저장
