@@ -18,7 +18,7 @@ public class P입국심사 {
             for(int i=0; i<times.length;i++){
                 sum += mid/times[i];
             }
-            if(sum<0){
+            if(sum<n){
                 left = mid + 1;
             }else {
                 right = mid - 1;
