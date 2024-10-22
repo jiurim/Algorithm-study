@@ -1,4 +1,4 @@
-package backtracking;
+package binary;
 
 import java.util.Arrays;
 
