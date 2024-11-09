@@ -12,4 +12,5 @@
    
 ## 오답노트와 개념풀이는 제 벨로그에 자세히 설명되어 있습니다.
 
-벨로그 10월 코딩테스트 시리즈 : https://velog.io/@jiurim/series/%EB%B0%80%EB%9D%BC-10%EC%9B%94-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%8A%A4%ED%84%B0%EB%94%94
+벨로그 10월 코딩테스트 시리즈 : 
+https://velog.io/@jiurim/series/%EB%B0%80%EB%9D%BC-10%EC%9B%94-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%8A%A4%ED%84%B0%EB%94%94
