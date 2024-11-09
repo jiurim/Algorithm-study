@@ -1,18 +1,15 @@
-## Getting Started
+## 알고리즘 문제를 학습 및 풀이한 코드들이 담긴 레포지토리 입니다.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+1. 스택&큐
 
-## Folder Structure
+2. DFS / BFS
 
-The workspace contains two folders by default, where:
+3. 백트래킹
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+4. 이진탐색
+  
+5. DP
+   
+## 오답노트와 개념풀이는 제 벨로그에 자세히 설명되어 있습니다.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+벨로그 10월 코딩테스트 시리즈 : https://velog.io/@jiurim/series/%EB%B0%80%EB%9D%BC-10%EC%9B%94-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%8A%A4%ED%84%B0%EB%94%94
